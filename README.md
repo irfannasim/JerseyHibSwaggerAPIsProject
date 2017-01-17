@@ -1,1 +1,1 @@
-# mavenWebApp
+# JerseyHibSwaggerAPIsProject
